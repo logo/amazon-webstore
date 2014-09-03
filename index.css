@@ -4,7 +4,7 @@
  */
 
 .logo[data-logo="amazon webstore"] {
-  width: 0;
+  width: 5.882352941176471em;
 }
 
 .logo[data-logo="amazon webstore"] > * {
